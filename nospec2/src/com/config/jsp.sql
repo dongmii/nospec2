@@ -12,7 +12,7 @@
    phone3 VARCHAR2(4) NOT NULL,
    email1 VARCHAR2(20) NOT NULL,
    email2 VARCHAR2(20) );    
-      
+       
    create table myboard 
  ( num NUMBER(4) CONSTRAINT myboard_num_pk PRIMARY KEY,
    title VARCHAR2(100) NOT NULL,

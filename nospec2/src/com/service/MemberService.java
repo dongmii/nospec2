@@ -24,7 +24,7 @@ public class MemberService {
 		} finally {
 			session.close();
 		}
-
+ 
 	}// end addMember
 
 	// 로그인

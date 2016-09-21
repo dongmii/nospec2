@@ -19,7 +19,7 @@ public class CompanyDTO {
 	private String cphone2;
 	private String cphone3;
 	
-	
+	 
 	
 	public CompanyDTO() {
 		super();

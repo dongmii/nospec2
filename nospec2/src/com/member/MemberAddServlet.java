@@ -23,7 +23,7 @@ public class MemberAddServlet extends HttpServlet {
 		
 		//나중에 필터로 설정하기
 		request.setCharacterEncoding("UTF-8");
-		
+		 
 		String userid = request.getParameter("userid");
 		String passwd = request.getParameter("passwd");
 		String username = request.getParameter("username");
@@ -35,7 +35,7 @@ public class MemberAddServlet extends HttpServlet {
 		String phone2 = request.getParameter("phone2");
 		String phone3 = request.getParameter("phone3");
 		String email1 = request.getParameter("email1");
-		
+		 
 		
 		MemberDTO dto =
 				new MemberDTO(userid, passwd, username, post1, post2, addr1, addr2, phone1, phone2, phone3, email1);

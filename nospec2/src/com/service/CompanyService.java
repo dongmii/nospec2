@@ -25,7 +25,7 @@ public class CompanyService {
 		} finally {
 			session.close();
 		}
-
+ 
 	}// end addMember
 
 	// 로그인

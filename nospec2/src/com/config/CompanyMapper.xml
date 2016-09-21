@@ -10,7 +10,7 @@ PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN"
       from company
       where cid = #{cid}
     </select>
-
+ 
 	<insert id="addCompany" parameterType="CompanyDTO">
 		insert into
 		company(cid,cpasswd,cname, cemail, cno1, cno2, cno3, cmaster, ccategory,

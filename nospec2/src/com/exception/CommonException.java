@@ -6,5 +6,5 @@ public class CommonException extends Exception {
 		super(message);
 		// TODO Auto-generated constructor stub
 	}
-
+ 
 }

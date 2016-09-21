@@ -1,7 +1,7 @@
 $(document).ready(function(){
 	$("#closenav").hide();
 	$(".viewpopup").hide();
-	
+	 
 	var closenav =$("#closenav"),
 		navbtn =$("#navbtn"),
 		navigation =$(".fullnavigation"),

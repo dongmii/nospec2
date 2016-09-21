@@ -5,7 +5,7 @@ function openDaumPostcode() {
     new daum.Postcode({
         width : width, //팝업창이 실행될때 위치지정
         height : height, //팝업창이 실행될때 위치지정
-        oncomplete: function(data) {
+        oncomplete: function(data) { 
              // 팝업에서 검색결과 항목을 클릭했을때 실행할 코드를 작성하는 부분.
  
             // 도로명 주소의 노출 규칙에 따라 주소를 조합한다.

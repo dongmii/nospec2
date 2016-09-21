@@ -1,7 +1,7 @@
 
 jQuery(document).ready(function() {
 	
-    /*
+    /* 
         Fullscreen background
     */
     $.backstretch("nospecLogin/img/backgrounds/1.jpg");

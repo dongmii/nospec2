@@ -10,7 +10,7 @@ PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN"
       from users
       where userid = #{userid}
     </select>
-
+ 
 	<insert id="addMember" parameterType="MemberDTO">
 		insert into
 		users(userid,passwd,username,

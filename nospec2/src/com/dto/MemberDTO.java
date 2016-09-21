@@ -14,7 +14,7 @@ public class MemberDTO {
 	private String phone3;
 	private String email1;
 	
-
+ 
 	
 	public MemberDTO(String userid, String passwd, String username, String post1, String post2, String addr1,
 			String addr2, String phone1, String phone2, String phone3, String email1) {
