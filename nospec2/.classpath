@@ -11,7 +11,13 @@
 			<attribute name="owner.project.facets" value="jst.web"/>
 		</attributes>
 	</classpathentry>
-	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.web.container"/>
 	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.module.container"/>
+	<classpathentry kind="lib" path="C:/Users/kdh/Desktop/07_logback/jcl-over-slf4j-1.7.21.jar"/>
+	<classpathentry kind="lib" path="C:/Users/kdh/Desktop/07_logback/logback-access-1.1.7.jar"/>
+	<classpathentry kind="lib" path="C:/Users/kdh/Desktop/07_logback/logback-classic-1.1.7.jar"/>
+	<classpathentry kind="lib" path="C:/Users/kdh/Desktop/07_logback/logback-core-1.1.7.jar"/>
+	<classpathentry kind="lib" path="C:/Users/kdh/Desktop/07_logback/slf4j-api-1.7.7.jar"/>
+	<classpathentry kind="lib" path="C:/Users/kdh/Desktop/mybatis-3.4.1/mybatis-3.4.1/mybatis-3.4.1.jar"/>
+	<classpathentry kind="lib" path="C:/app/kdh/product/11.2.0/dbhome_1/jdbc/lib/ojdbc6_g.jar"/>
 	<classpathentry kind="output" path="build/classes"/>
 </classpath>
